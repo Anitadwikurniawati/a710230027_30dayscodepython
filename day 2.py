@@ -1,6 +1,6 @@
 class IPhone:
     def __init__(self, model, kapasitas, warna):
-        self.model = model
+        self.model= model
         self.kapasitas = kapasitas
         self.warna = warna
 
